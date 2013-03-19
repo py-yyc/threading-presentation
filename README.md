@@ -1,3 +1,9 @@
+# Web-development using Python with Django
+
+The gh-pages branch of this repository is the presentation for the meetup. This presentation has been made by forking the Hekyll project by Brian McMurray (bmcmurray) and Steven Merrill (smerrill). The following is their original README for this project.
+
+------------------------------------------------
+
 # Hekyll
 _pronunciation: "heckle"_
 

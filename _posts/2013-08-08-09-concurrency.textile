@@ -8,9 +8,10 @@ data:
 
 ---
 
+Concurrency Primitives
 * Locks
 * Semaphores
 
-Thread-safe queues
+Thread-safe Objects
 * Queue (Python 2)
 * queue (Python 3)

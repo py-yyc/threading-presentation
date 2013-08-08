@@ -8,12 +8,12 @@ data:
 
 ---
 
-- Processes
-    + Independent units
-    + Separate address space
-    + Large overhead creation
+Processes
+- Independent units
+- Separate address space
+- Large overhead creation
 
-- Threads
-    + Exist within a process
-    + Shared address space
-    + Small(ish) overhead creation
+Threads
+- Exist within a process
+- Shared address space
+- Small(ish) overhead creation

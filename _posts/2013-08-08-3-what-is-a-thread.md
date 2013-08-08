@@ -9,5 +9,5 @@ data:
 ---
 
 A sequence of program instructions managed by OS
-{{site.url}}
-![OS Thread]({{site.url}}/assets/thread.jpg)
+
+![OS Thread](/threading-presentation/assets/thread.jpg)

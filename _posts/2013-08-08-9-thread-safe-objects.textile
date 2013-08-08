@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: ""
+title: "Thread-Safe Queue"
 published: true
 data:
   x: 7000

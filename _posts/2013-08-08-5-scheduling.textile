@@ -1,0 +1,14 @@
+---
+layout: slide
+title: "Scheduling"
+published: true
+data:
+  x: 3000
+  y: 0
+
+---
+
+* OS schedules what processes/threads run
+** Gives perception of concurancy on a single core
+
+* Preemption!

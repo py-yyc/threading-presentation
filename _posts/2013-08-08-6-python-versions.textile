@@ -1,15 +1,17 @@
 ---
 layout: slide
-title: ""
+title: "Modules"
 published: true
 data:
-  x: 7000
+  x: 4000
   y: 0
 
 ---
 
 Python 2
-- Queue
+* thread
+* threading
 
 Python 3
-- queue
+* \_thread
+* threading

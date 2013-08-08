@@ -182,10 +182,11 @@ h1 {
 /*
 .slide ul {
   margin-top: 1em; }
+*/
 
 .slide li {
-  margin: 0 0 0.5em; }
-*/
+  margin-top: 0.5em; }
+
 
 /* IMPRESS NOT SUPPORTED STYLES */
 .fallback-message {

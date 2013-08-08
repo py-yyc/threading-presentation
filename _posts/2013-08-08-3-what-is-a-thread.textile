@@ -10,4 +10,4 @@ data:
 
 A sequence of program instructions managed by OS
 
-![OS Thread](/threading-presentation/assets/thread.jpg)
+!/threading-presentation/assets/thread.jpg(An OS Thread)!

@@ -13,10 +13,10 @@ Outline
 - Scheduling
 - Targetted Python version
 - Creating a thread (in Python)
--- Good way
--- Bad way
+    - Good way
+    - Bad way
 - Thread primitives (in Python)
--- Mutex
--- Semaphore
+    - Mutex
+    - Semaphore
 - Thread safe objects (in Python)
--- Queue
+    - Queue

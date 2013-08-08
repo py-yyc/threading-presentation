@@ -13,5 +13,5 @@ Python 2
 * threading
 
 Python 3
-* \_thread
+* _thread
 * threading

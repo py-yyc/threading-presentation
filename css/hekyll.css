@@ -175,10 +175,19 @@ h1 {
   margin: 1.25em 0; }
 .slide h1 {
   line-height: 100%; }
-.slide ul, .slide p, .slide h2, .slide h3, .slide h4, .slide h5, .slide h6 {
+
+.slide p, .slide h2, .slide h3, .slide h4, .slide h5, .slide h6 {
   margin-top: 1em; }
+
+/*
+.slide ul {
+  margin-top: 1em; }
+*/
+
+/*
 .slide li {
   margin: 0 0 0.5em; }
+*/
 
 /* IMPRESS NOT SUPPORTED STYLES */
 .fallback-message {

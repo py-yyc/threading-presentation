@@ -1,0 +1,16 @@
+---
+layout: slide
+title: "Concurrency"
+published: true
+data:
+  x: 6000
+  y: 0
+
+---
+
+* Locks
+* Semaphores
+
+Thread-safe queues
+* Queue (Python 2)
+* queue (Python 3)

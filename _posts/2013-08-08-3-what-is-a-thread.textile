@@ -9,5 +9,6 @@ data:
 ---
 
 A sequence of program instructions managed by OS
+* And everything associated
 
 |=. !/threading-presentation/assets/thread.jpg(An OS Thread)! |

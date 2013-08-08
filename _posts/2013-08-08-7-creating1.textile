@@ -1,0 +1,24 @@
+---
+layout: slide
+title: "Creating threads"
+published: true
+data:
+  x: 5000
+  y: 0
+
+---
+
+The class way
+
+{% highlight python %}
+import threading
+import time
+
+class sleeping_thread(threading.Thread):
+    def run(self):
+        time.sleep(1)
+
+t = sleeping_thread()
+t.start()
+t.join()
+{% endhighlight %}

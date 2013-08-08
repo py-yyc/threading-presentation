@@ -8,6 +8,10 @@ data:
 
 ---
 
-Threading in Python
+h1. Threading in Python
 
-Presentation at: http://pyyyc.org/threading-presentation
+h2. Jordan Woehr
+
+h2. August 8, 2013
+
+h3. Presentation at: http://pyyyc.org/threading-presentation

@@ -1,0 +1,15 @@
+---
+layout: slide
+title: "Thread primitives"
+published: true
+data:
+  x: 7000
+  y: 0
+
+---
+
+What is a thread in Python?
+
+Limitations in Python
+
+* Global Interpreter Lock

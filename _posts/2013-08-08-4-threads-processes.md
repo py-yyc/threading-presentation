@@ -9,11 +9,11 @@ data:
 ---
 
 - Processes
--- Independent units
--- Separate address space
--- Large overhead creation
+    - Independent units
+    - Separate address space
+    - Large overhead creation
 
 - Threads
--- Exist within a process
--- Shared address space
--- Small(ish) overhead creation
+    - Exist within a process
+    - Shared address space
+    - Small(ish) overhead creation

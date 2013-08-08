@@ -8,8 +8,6 @@ data:
 
 ---
 
-h1. Threading in Python
-
 h2. Jordan Woehr
 
 h2. August 8, 2013

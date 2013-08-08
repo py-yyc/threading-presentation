@@ -14,7 +14,9 @@ The function way
 import threading
 import time
 
-t = threading.Thread(target=lambda: time.sleep(1))
+t = threading.Thread(
+    target=lambda: time.sleep(1)
+)
 t.start()
 t.join()
 {% endhighlight %}

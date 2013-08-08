@@ -9,6 +9,6 @@ data:
 ---
 
 OS schedules what processes/threads run
-* Gives perception of concurancy on a single core
+* Gives perception of concurrency on a single core
 
 Preemption!
